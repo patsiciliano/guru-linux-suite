@@ -34,3 +34,20 @@ Nota: Se provi ad avviarlo senza sudo, l'applicazione mostrerà un avviso di sic
     Interfaccia grafica Tkinter (solitamente preinstallata, o installabile tramite sudo apt install python3-tk)
 
     Sistemi operativi: Ubuntu, Debian, Zorin OS, Linux Mint e derivate.
+
+
+Licenza e Trasparenza
+
+Certificato Trasparente & Sicuro | Firmato Gemini Guru.
+Questo progetto è rilasciato sotto licenza Open Source. Sentiti libero di fare un fork, aprire segnalazioni (Issues) o proporre modifiche!
+
+
+---
+
+### 💡 Un piccolo consiglio prima del push:
+Se non l'hai già fatto, ricordati di creare nella cartella del progetto anche un file chiamato `.gitignore` e di scriverci dentro semplicemente:
+```text
+__pycache__/
+*.pyc
+
+In questo modo eviterai di caricare su GitHub i file temporanei che Python crea automaticamente quando avvii la suite sul tuo computer.
