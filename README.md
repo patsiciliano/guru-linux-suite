@@ -25,3 +25,12 @@ Poiché la suite esegue modifiche profonde a livello di sistema (come la gestion
 2. Lancia lo script digitando verbatim:
 ```bash
    sudo python3 guru_linux_suite.py
+
+Nota: Se provi ad avviarlo senza sudo, l'applicazione mostrerà un avviso di sicurezza e si chiuderà automaticamente per proteggere il sistema.
+🛠️ Requisiti
+
+    Python 3.x
+
+    Interfaccia grafica Tkinter (solitamente preinstallata, o installabile tramite sudo apt install python3-tk)
+
+    Sistemi operativi: Ubuntu, Debian, Zorin OS, Linux Mint e derivate.
